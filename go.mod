@@ -1,3 +1,3 @@
-module github.com/thoohv5/function-template
+module github.com/thoohv5/copier
 
 go 1.17
